@@ -1,0 +1,48 @@
+10:15:06.612 [main] INFO  testcases.Tc001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest started
+10:15:07.442 [main] INFO  testcases.Tc001_AccountRegistrationTest - Clicked on My Account link
+10:15:08.964 [main] INFO  testcases.Tc001_AccountRegistrationTest - Clicked on Register link
+10:15:08.989 [main] INFO  testcases.Tc001_AccountRegistrationTest - Providing customer data
+10:15:12.753 [main] INFO  testcases.Tc001_AccountRegistrationTest - validation expected mssg....
+10:15:12.837 [main] INFO  testcases.Tc001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+10:15:25.114 [main] INFO  testcases.Tc002_Logintest - Clicked on My Account link
+10:15:25.448 [main] INFO  testcases.Tc002_Logintest - Clicked on Login link
+10:15:25.668 [main] INFO  testcases.Tc002_Logintest - Provided email
+10:15:25.833 [main] INFO  testcases.Tc002_Logintest - Provided password
+10:15:26.827 [main] INFO  testcases.Tc002_Logintest - Clicked on Login button
+10:15:26.899 [main] INFO  testcases.Tc002_Logintest - *******finish tc002_Logintest Success*******
+10:33:07.375 [main] INFO  testcases.Tc001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest started
+10:33:07.993 [main] INFO  testcases.Tc001_AccountRegistrationTest - Clicked on My Account link
+10:33:09.416 [main] INFO  testcases.Tc001_AccountRegistrationTest - Clicked on Register link
+10:33:09.427 [main] INFO  testcases.Tc001_AccountRegistrationTest - Providing customer data
+10:33:11.457 [main] INFO  testcases.Tc001_AccountRegistrationTest - validation expected mssg....
+10:33:11.517 [main] INFO  testcases.Tc001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+10:33:18.302 [main] INFO  testcases.Tc002_Logintest - Clicked on My Account link
+10:33:18.682 [main] INFO  testcases.Tc002_Logintest - Clicked on Login link
+10:33:19.026 [main] INFO  testcases.Tc002_Logintest - Provided email
+10:33:19.214 [main] INFO  testcases.Tc002_Logintest - Provided password
+10:33:20.450 [main] INFO  testcases.Tc002_Logintest - Clicked on Login button
+10:33:20.520 [main] INFO  testcases.Tc002_Logintest - *******finish tc002_Logintest Success*******
+10:35:00.981 [main] INFO  testcases.Tc001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest started
+10:35:01.761 [main] INFO  testcases.Tc001_AccountRegistrationTest - Clicked on My Account link
+10:35:02.439 [main] INFO  testcases.Tc001_AccountRegistrationTest - Clicked on Register link
+10:35:02.458 [main] INFO  testcases.Tc001_AccountRegistrationTest - Providing customer data
+10:35:04.578 [main] INFO  testcases.Tc001_AccountRegistrationTest - validation expected mssg....
+10:35:04.636 [main] INFO  testcases.Tc001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+10:35:10.768 [main] INFO  testcases.Tc002_Logintest - Clicked on My Account link
+10:35:11.262 [main] INFO  testcases.Tc002_Logintest - Clicked on Login link
+10:35:11.439 [main] INFO  testcases.Tc002_Logintest - Provided email
+10:35:11.588 [main] INFO  testcases.Tc002_Logintest - Provided password
+10:35:13.088 [main] INFO  testcases.Tc002_Logintest - Clicked on Login button
+10:35:13.174 [main] INFO  testcases.Tc002_Logintest - *******finish tc002_Logintest Success*******
+10:44:22.541 [main] INFO  testcases.Tc001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest started
+10:44:23.312 [main] INFO  testcases.Tc001_AccountRegistrationTest - Clicked on My Account link
+10:44:24.101 [main] INFO  testcases.Tc001_AccountRegistrationTest - Clicked on Register link
+10:44:24.122 [main] INFO  testcases.Tc001_AccountRegistrationTest - Providing customer data
+10:44:26.264 [main] INFO  testcases.Tc001_AccountRegistrationTest - validation expected mssg....
+10:44:26.319 [main] INFO  testcases.Tc001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+10:44:32.017 [main] INFO  testcases.Tc002_Logintest - Clicked on My Account link
+10:44:32.463 [main] INFO  testcases.Tc002_Logintest - Clicked on Login link
+10:44:32.693 [main] INFO  testcases.Tc002_Logintest - Provided email
+10:44:32.831 [main] INFO  testcases.Tc002_Logintest - Provided password
+10:44:33.708 [main] INFO  testcases.Tc002_Logintest - Clicked on Login button
+10:44:33.762 [main] INFO  testcases.Tc002_Logintest - *******finish tc002_Logintest Success*******
